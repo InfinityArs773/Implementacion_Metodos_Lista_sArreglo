@@ -2,6 +2,8 @@
 # Erick LF
 
 ## Mini proyecto basico en consola
+> Nota: Este proyecto fue desarrollado exclusivamente con fines academicos. Desarrolladores profesionales pueden continuar con su día.
+
 El proyecto implementa una clase llamada `ArrayList<T>` que permite almacenar y manipular elementos mediante un arreglo.
 
 El objetivo es poner en práctica el manejo de listas genéricas en Java y la implementación de diferentes métodos para agregar, consultar, modificar y eliminar elementos.
